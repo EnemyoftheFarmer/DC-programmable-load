@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "be76ea5a-5c84-4626-9ac2-5de92c25e43b": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ad736e6c-b7bf-4b4a-9d2c-b4d9439d5ac5"
+        }
+    },
+    "manufacturer": "",
+    "name": "4 terminal resistor",
+    "prefix": "",
+    "tags": [],
+    "type": "entity",
+    "uuid": "18037adc-7fca-4a1f-99e0-eb8d43596c48"
+}

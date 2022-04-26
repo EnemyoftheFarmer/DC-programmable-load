@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "AD4523"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "add81fb1-566d-4170-868c-264e91f04788",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "18256178-4af0-466a-bc77-60b2a173da56",
+            "pin": "d9299dc2-67ea-41ca-835e-6a4701093f93"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "bd7eb247-f40f-48a8-9689-12222ddb433e",
+            "pin": "aacf2d55-cf04-4c20-89c5-61704ef771f7"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "bd7eb247-f40f-48a8-9689-12222ddb433e",
+            "pin": "a8ba387d-1c68-4215-843f-9d669e48646d"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "18256178-4af0-466a-bc77-60b2a173da56",
+            "pin": "ddc6b3bf-ee7c-4943-a670-4243439957b3"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "18256178-4af0-466a-bc77-60b2a173da56",
+            "pin": "c04e9a4e-64ef-4914-bf4b-c1148575ad69"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d344588b-f384-454f-a65e-7326a204d927",
+    "value": [
+        false,
+        ""
+    ]
+}

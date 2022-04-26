@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "653eb7c3-4b18-4c00-b1c9-a4842fae54c9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8728fbe4-16b6-4c01-bad1-d814dfce09b2"
+        }
+    },
+    "manufacturer": "",
+    "name": "lt1128",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "fea777cd-8be0-46b4-9437-d560f411094c"
+}

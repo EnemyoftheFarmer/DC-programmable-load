@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "4 terminal resistor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "18037adc-7fca-4a1f-99e0-eb8d43596c48",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "63f33da1-793a-490a-a429-09aa9cc1ffa7",
+    "package": "0a1a9839-2ab0-4909-951d-6e04d753fc3a",
+    "pad_map": {
+        "07a8a7c8-de42-4bd6-8cac-9cea59f049cd": {
+            "gate": "be76ea5a-5c84-4626-9ac2-5de92c25e43b",
+            "pin": "8380c6cf-de00-43f9-847d-993bac6fd807"
+        },
+        "206dd960-f2ee-470c-b800-a0723a950550": {
+            "gate": "be76ea5a-5c84-4626-9ac2-5de92c25e43b",
+            "pin": "0b517641-c200-4018-bbb9-a27da66ad362"
+        },
+        "6ffdc20a-c35c-4462-9080-10dd94eb0961": {
+            "gate": "be76ea5a-5c84-4626-9ac2-5de92c25e43b",
+            "pin": "4ff1b86b-2a98-46b9-b851-0a4bf8167992"
+        },
+        "90f8c923-efb6-4e14-93c7-eb6d37257df1": {
+            "gate": "be76ea5a-5c84-4626-9ac2-5de92c25e43b",
+            "pin": "bb876f45-1bee-4812-b531-a9b8ecc0927b"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1f0ac9b5-d175-437b-a11a-151c9e9917f7",
+    "value": [
+        false,
+        ""
+    ]
+}

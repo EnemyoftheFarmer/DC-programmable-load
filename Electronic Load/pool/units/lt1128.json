@@ -1,0 +1,62 @@
+{
+    "manufacturer": "",
+    "name": "LT1128",
+    "pins": {
+        "0eacd414-5f9d-4a3d-949f-0df07a5b3f05": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VOS_TRIM2",
+            "swap_group": 0
+        },
+        "192077bb-ea50-4039-8bf4-62fec95ae7b0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "2ff6930a-8e1d-4182-b8bd-079a0b8679a4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V-",
+            "swap_group": 0
+        },
+        "3950cc8d-adc4-4476-a696-b1afca701c2b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OVERCOMP",
+            "swap_group": 0
+        },
+        "873a31c8-e4d9-4c22-8ca9-2b1e81da0e0f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VOS_TRIM1",
+            "swap_group": 0
+        },
+        "c04e9a4e-64ef-4914-bf4b-c1148575ad69": {
+            "direction": "output",
+            "names": [
+                "Output"
+            ],
+            "primary_name": "Out",
+            "swap_group": 0
+        },
+        "d9299dc2-67ea-41ca-835e-6a4701093f93": {
+            "direction": "input",
+            "names": [
+                "IN-"
+            ],
+            "primary_name": "-",
+            "swap_group": 0
+        },
+        "ddc6b3bf-ee7c-4943-a670-4243439957b3": {
+            "direction": "input",
+            "names": [
+                "IN+"
+            ],
+            "primary_name": "+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ddf7fff2-e3ee-4958-b0db-887bcbca7521"
+}

@@ -1,0 +1,133 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "08c0d169-ec1b-4943-ac18-aea241dea137": {
+            "position": [
+                -15000000,
+                7500000
+            ]
+        },
+        "411649ea-f452-49a8-b8cd-133e996ee58f": {
+            "position": [
+                15000000,
+                7500000
+            ]
+        },
+        "77e3063b-e014-480d-924f-43c138a6fa81": {
+            "position": [
+                -15000000,
+                -7500000
+            ]
+        },
+        "e2480a32-1158-4615-a016-ff2fa1b937f7": {
+            "position": [
+                15000000,
+                -7500000
+            ]
+        }
+    },
+    "lines": {
+        "81828e1d-8c63-413a-970c-cf0c86751a53": {
+            "from": "08c0d169-ec1b-4943-ac18-aea241dea137",
+            "layer": 0,
+            "to": "411649ea-f452-49a8-b8cd-133e996ee58f",
+            "width": 0
+        },
+        "8c060f7f-7a85-428a-b338-910efe025188": {
+            "from": "77e3063b-e014-480d-924f-43c138a6fa81",
+            "layer": 0,
+            "to": "08c0d169-ec1b-4943-ac18-aea241dea137",
+            "width": 0
+        },
+        "9c896e10-b948-423f-a647-1a873bd91b9b": {
+            "from": "e2480a32-1158-4615-a016-ff2fa1b937f7",
+            "layer": 0,
+            "to": "77e3063b-e014-480d-924f-43c138a6fa81",
+            "width": 0
+        },
+        "fc4503e7-4b71-4aea-8d7c-383b2ab25c3d": {
+            "from": "411649ea-f452-49a8-b8cd-133e996ee58f",
+            "layer": 0,
+            "to": "e2480a32-1158-4615-a016-ff2fa1b937f7",
+            "width": 0
+        }
+    },
+    "name": "4 terminal resistor",
+    "pins": {
+        "0b517641-c200-4018-bbb9-a27da66ad362": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -17500000,
+                -3750000
+            ]
+        },
+        "4ff1b86b-2a98-46b9-b851-0a4bf8167992": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -17500000,
+                3750000
+            ]
+        },
+        "8380c6cf-de00-43f9-847d-993bac6fd807": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                17500000,
+                -3750000
+            ]
+        },
+        "bb876f45-1bee-4812-b531-a9b8ecc0927b": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                17500000,
+                3750000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "ad736e6c-b7bf-4b4a-9d2c-b4d9439d5ac5",
+    "uuid": "cf91994e-f4f2-4f42-a6d1-b5fa8bf284ab"
+}

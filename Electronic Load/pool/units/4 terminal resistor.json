@@ -1,0 +1,36 @@
+{
+    "manufacturer": "",
+    "name": "4 terminal resistor",
+    "pins": {
+        "0b517641-c200-4018-bbb9-a27da66ad362": {
+            "direction": "input",
+            "names": [
+                "PLUS"
+            ],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "4ff1b86b-2a98-46b9-b851-0a4bf8167992": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RSENSE+",
+            "swap_group": 0
+        },
+        "8380c6cf-de00-43f9-847d-993bac6fd807": {
+            "direction": "input",
+            "names": [
+                "MINUS"
+            ],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "bb876f45-1bee-4812-b531-a9b8ecc0927b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RSENSE-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ad736e6c-b7bf-4b4a-9d2c-b4d9439d5ac5"
+}
