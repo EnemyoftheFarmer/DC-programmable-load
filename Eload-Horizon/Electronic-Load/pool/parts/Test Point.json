@@ -1,0 +1,37 @@
+{
+    "MPN": [
+        false,
+        "Test Point"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Test Point 1.5mm Pad 0.9mm hole"
+    ],
+    "entity": "267c6a2c-f1ef-4659-941a-b59a08de3c02",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5c4e4432-6f6c-4188-8fd7-d20e3d1d1a52",
+    "pad_map": {
+        "e3205dba-fe63-4cb9-be4e-7dbfde5e6f91": {
+            "gate": "0de5f349-f360-44ed-8f13-d76a2a712b17",
+            "pin": "2fffaa24-00b6-4f8f-a6c0-f808a499d524"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d21d1d41-cfca-4999-a4bb-44156b7cca00",
+    "value": [
+        false,
+        ""
+    ]
+}

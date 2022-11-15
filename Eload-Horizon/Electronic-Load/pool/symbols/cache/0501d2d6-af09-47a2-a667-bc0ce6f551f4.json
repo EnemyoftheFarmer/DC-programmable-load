@@ -1,0 +1,84 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {},
+    "lines": {},
+    "name": "Dual Supply Power",
+    "pins": {
+        "a8ba387d-1c68-4215-843f-9d669e48646d": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                0,
+                5000000
+            ]
+        },
+        "aacf2d55-cf04-4c20-89c5-61704ef771f7": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -5000000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "2c7265cd-87e4-43b2-b677-1c652b40df9e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -750000,
+                    -1875000
+                ]
+            },
+            "size": 1250000,
+            "text": "-",
+            "width": 0
+        },
+        "db48d752-01d4-4f05-b00d-2da963942684": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -750000,
+                    1750000
+                ]
+            },
+            "size": 1250000,
+            "text": "+",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "836eb1b7-066f-415a-a72b-1955f69ab094",
+    "uuid": "0501d2d6-af09-47a2-a667-bc0ce6f551f4"
+}

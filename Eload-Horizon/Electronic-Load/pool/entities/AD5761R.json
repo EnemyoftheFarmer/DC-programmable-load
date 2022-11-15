@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "88d56ebf-a110-454b-9834-3d93d4eb7ba4": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "95762525-a415-4c7b-9c93-aff53aa580fa"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "AD5761R",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "1864200c-9615-49b7-a63e-9736b25c4d0a"
+}

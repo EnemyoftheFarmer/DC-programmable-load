@@ -1,0 +1,22 @@
+{
+    "gates": {
+        "588ee9f7-391c-4d94-ab71-cfb194efd59a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e2fcf64e-1540-408f-9c3f-73f80f81ab42"
+        },
+        "602d105c-ef17-4471-8da3-5c2c9908d0ec": {
+            "name": "Power",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "836eb1b7-066f-415a-a72b-1955f69ab094"
+        }
+    },
+    "manufacturer": "",
+    "name": "Single Op-Amp Dual Supply",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "1006719a-179a-418d-b4e4-4129738087cd"
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "0417f090-40e1-474a-b3aa-e03cacdb5b6f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "30c81569-f0cc-4e6a-937c-ade7ff2b122c"
+        }
+    },
+    "manufacturer": "",
+    "name": "ADS1015IDGS",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "2ce7e21f-cdb9-4b7e-950e-4bb5015e3721"
+}

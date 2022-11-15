@@ -1,0 +1,98 @@
+{
+    "arcs": {
+        "025bafc0-7bfd-4966-b16a-87728f11d873": {
+            "center": "0f97cac0-953c-4bd5-bd3c-3b7b6f96ff44",
+            "from": "9379cc25-b497-4c15-94e7-9b1d451bc7ad",
+            "layer": 20,
+            "to": "5eb40d04-7f8b-46a8-b94a-e30f9b350aa7",
+            "width": 153000
+        },
+        "86121e72-d764-4802-910b-ad3bfa5e3a8d": {
+            "center": "0f97cac0-953c-4bd5-bd3c-3b7b6f96ff44",
+            "from": "5eb40d04-7f8b-46a8-b94a-e30f9b350aa7",
+            "layer": 20,
+            "to": "9379cc25-b497-4c15-94e7-9b1d451bc7ad",
+            "width": 153000
+        }
+    },
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 10000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "0f97cac0-953c-4bd5-bd3c-3b7b6f96ff44": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "5eb40d04-7f8b-46a8-b94a-e30f9b350aa7": {
+            "position": [
+                -680000,
+                530000
+            ]
+        },
+        "9379cc25-b497-4c15-94e7-9b1d451bc7ad": {
+            "position": [
+                680000,
+                -530000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "Test Point",
+    "pads": {
+        "e3205dba-fe63-4cb9-be4e-7dbfde5e6f91": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 700000,
+                "pad_diameter": 1000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "5c4e4432-6f6c-4188-8fd7-d20e3d1d1a52"
+}

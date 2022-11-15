@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "WSL4026"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Resistor"
+    ],
+    "entity": "5be04675-251d-4cbe-a34e-e9669c1bf78b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "e347c672-c57e-41af-a36c-41a517f55211",
+    "package": "458e02f6-0960-429b-8d3a-98f41f624260",
+    "pad_map": {
+        "3088ed0e-ed83-4f28-a602-732857c61b59": {
+            "gate": "c25223b1-5a10-4186-bd71-5bf871824eb5",
+            "pin": "1fe19fa0-21bd-489c-b182-21cba3277232"
+        },
+        "9f88d88f-e124-48b3-99b9-6a4c88884ef4": {
+            "gate": "c25223b1-5a10-4186-bd71-5bf871824eb5",
+            "pin": "24399408-0ae1-47f6-bbb3-da31ede28bb3"
+        },
+        "f2dccc17-c896-4bbc-b587-68282b162b5a": {
+            "gate": "c25223b1-5a10-4186-bd71-5bf871824eb5",
+            "pin": "cea4da8c-687c-4d96-82b6-5033079d8ee3"
+        },
+        "f73a404a-0661-4860-8ffd-a8dc29d811d0": {
+            "gate": "c25223b1-5a10-4186-bd71-5bf871824eb5",
+            "pin": "a014dbba-aeda-477f-952f-3356a1ee818e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "2cf881f1-6f76-4747-8c01-8f07a3f62feb",
+    "value": [
+        false,
+        "1mOhm"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "ADS1115IDGS"
+    ],
+    "base": "078ac816-9e95-48da-9b9d-54a47a194ada",
+    "datasheet": [
+        true,
+        "http://www.ti.com/lit/ds/symlink/ads1015.pdf"
+    ],
+    "description": [
+        true,
+        "Ultra-Small, Low-Power, I2C-Compatible, 3.3-kSPS, 12-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b2ad6733-275e-4247-856d-a34dd99b526e",
+    "value": [
+        true,
+        "ADS1015IDGS"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "manufacturer": "",
+    "name": "ADS1015IDGS",
+    "pins": {
+        "01db1568-e81c-4f95-aa93-379a4a2c4152": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIN1",
+            "swap_group": 0
+        },
+        "3514c908-ebde-4211-b2af-da620f46c6a1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR",
+            "swap_group": 0
+        },
+        "6f6677f6-0ab9-440d-b61b-4ffe9da11ae3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIN2",
+            "swap_group": 0
+        },
+        "81890197-6851-4e84-9b10-5385aee46211": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ALERT/RDY",
+            "swap_group": 0
+        },
+        "86144b3c-099c-4506-a3cc-e81ce56d05da": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIN3",
+            "swap_group": 0
+        },
+        "8c3a1571-0d24-4362-bc4e-1a79e6911241": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "8c495e1b-61bd-4ddf-a41e-c58cb650d963": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "9ac19358-ea2c-4cef-8f9a-123283edc414": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIN0",
+            "swap_group": 0
+        },
+        "9ef42361-38b5-45b7-8347-b6a3859c2b45": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "b5f6701d-fae1-4126-b99e-04eb88a1fcc1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "30c81569-f0cc-4e6a-937c-ade7ff2b122c"
+}

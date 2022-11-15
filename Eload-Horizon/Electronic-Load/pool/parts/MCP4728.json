@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "MCP4728"
+    ],
+    "datasheet": [
+        false,
+        "http://ww1.microchip.com/downloads/en/DeviceDoc/22187E.pdf"
+    ],
+    "description": [
+        false,
+        "12-bit digital to analog converter, quad output, 2.048V internal reference, integrated EEPROM, I2C interface"
+    ],
+    "entity": "02cd91a5-26b7-45ba-86be-a1a1b15c8e19",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0a06421f-eea0-4973-829a-847a47677c3a",
+    "pad_map": {
+        "105a3e2d-c5c5-41d0-b7ae-6a9f0df8d3b9": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "83f1119a-34b8-47a1-9b6c-462e9ac94e06"
+        },
+        "188ce099-dfa6-4735-a415-2d4a5eda9fb8": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "2c67486f-a7ff-4886-b817-1ee2b3be4604"
+        },
+        "3e8d50e3-1f44-4fc1-a728-65bec3dede0e": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "9c674b86-2710-4f6a-8535-f0dc6d7e3f39"
+        },
+        "4ba11728-1d7a-4979-a199-d719338447bb": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "07eae832-38a1-4180-8539-3f41565e8381"
+        },
+        "aa202a45-19fe-4ef5-8acd-ffd5970d0dee": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "5689a4b0-c30c-46bb-94bc-80b7b321a5d8"
+        },
+        "b0a58a4a-e949-43f7-bf69-69cc11fdd78d": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "eb7ba2bb-ae33-4a27-bd3c-a59b36eeda40"
+        },
+        "b7f528f7-d9d2-4274-a4a9-c3e5a4c47ebd": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "cb668dd8-b890-42de-8789-a5c1bfd531ed"
+        },
+        "b89d1e53-faa7-4300-88ea-dc6d1e77d58f": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "40b589dc-33f3-41c3-aa1b-cd280878b15d"
+        },
+        "d45c7e9d-48a8-46df-8397-bf7d7aaca835": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "86e7fcfe-e0e0-4db9-8d43-6d46a08c06f5"
+        },
+        "e2b15eb0-fc08-4497-b0ff-a1d004011f7f": {
+            "gate": "c757288c-0b33-4a55-bbff-ba332094eb69",
+            "pin": "e5ea09c5-46ac-4dd5-9389-aae7a41557c2"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f3d5922c-a861-4143-9000-ea8f803f08db",
+    "value": [
+        false,
+        ""
+    ]
+}

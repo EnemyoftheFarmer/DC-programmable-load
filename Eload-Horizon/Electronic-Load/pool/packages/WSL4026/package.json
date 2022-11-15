@@ -1,0 +1,140 @@
+{
+    "arcs": {},
+    "default_model": "e347c672-c57e-41af-a36c-41a517f55211",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 510000
+        },
+        "grids": {}
+    },
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {
+        "e347c672-c57e-41af-a36c-41a517f55211": {
+            "filename": "3d_models/Vishay/WSLP4026 (0.001).stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": -2200000,
+            "y": -100000,
+            "yaw": 16384,
+            "z": 1300000
+        }
+    },
+    "name": "WSL4026",
+    "pads": {
+        "3088ed0e-ed83-4f28-a602-732857c61b59": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 2670000,
+                "pad_width": 5660000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    4035000
+                ]
+            }
+        },
+        "9f88d88f-e124-48b3-99b9-6a4c88884ef4": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 2670000,
+                "pad_width": 5660000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    -4035000
+                ]
+            }
+        },
+        "f2dccc17-c896-4bbc-b587-68282b162b5a": {
+            "name": "4",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 2670000,
+                "pad_width": 990000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4015000,
+                    -4035000
+                ]
+            }
+        },
+        "f73a404a-0661-4860-8ffd-a8dc29d811d0": {
+            "name": "3",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 2670000,
+                "pad_width": 990000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4015000,
+                    4035000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {
+        "43c6f49a-0049-436f-82a8-e3bb4edc26eb": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    -3060000,
+                    0
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "458e02f6-0960-429b-8d3a-98f41f624260"
+}

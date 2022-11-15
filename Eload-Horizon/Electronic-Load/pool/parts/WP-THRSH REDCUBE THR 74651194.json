@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "WP-THRSH REDCUBE THR 74651194"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "High Current Terminal Block"
+    ],
+    "entity": "267343bf-e6bf-42f4-b256-381dd96f011d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Wuerth"
+    ],
+    "model": "b83763b7-79f0-4571-be1a-bb4552d217a4",
+    "package": "7be683f4-636f-4e55-b9a4-b80cf3e37bb8",
+    "pad_map": {
+        "3abfab7c-21b7-4758-98d4-3cc57cd44158": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "4b6ac94c-f468-4120-87ad-d3d98a5d742d": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "51450454-358c-4236-9530-c4ee05c5c7a7": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "5b4265c7-46bc-48d6-a5c4-6973ddc2b306": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "7765eadb-9702-4e20-ba05-76bd4a2adc74": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "9d47664f-3f88-48cf-a086-54a897aab560": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "aed1a15d-e110-4ec9-beff-6e359ff15a57": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "bdcb6d23-5d7e-4829-b659-715074a904ba": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "d94beb10-3231-4215-8122-191f453da30b": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "01a50a45-853d-4d7f-b7d3-3d78b70bfc0e",
+    "value": [
+        false,
+        ""
+    ]
+}

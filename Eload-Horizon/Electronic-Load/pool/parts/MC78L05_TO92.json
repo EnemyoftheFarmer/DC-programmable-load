@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "MC78L05_TO92"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/MC78L00A-D.PDF"
+    ],
+    "description": [
+        false,
+        "Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92"
+    ],
+    "entity": "4e1d1f1a-eb4c-40c0-9a25-663781dca473",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f94aec49-d6bf-4170-8d54-ba567cd9c9ea",
+    "pad_map": {
+        "0c65f99f-5e80-482c-abf3-5a46acfd1174": {
+            "gate": "7501a4c8-4257-4bc5-bc7b-16808fa33cb6",
+            "pin": "f6cd33e4-fe32-41f5-b3ba-c6b1a481b00b"
+        },
+        "2857d642-7cf6-4eb9-8741-6249df6c8cab": {
+            "gate": "7501a4c8-4257-4bc5-bc7b-16808fa33cb6",
+            "pin": "8de15d6f-4b3e-47ab-80f9-4fea10897736"
+        },
+        "5d851f2d-3f8d-4732-b7e2-5a1c7eae2766": {
+            "gate": "7501a4c8-4257-4bc5-bc7b-16808fa33cb6",
+            "pin": "38fe020e-3609-4250-86f3-46e2b56a254d"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "cb2e2706-93eb-4c7a-aa0c-036f11150080",
+    "value": [
+        false,
+        ""
+    ]
+}

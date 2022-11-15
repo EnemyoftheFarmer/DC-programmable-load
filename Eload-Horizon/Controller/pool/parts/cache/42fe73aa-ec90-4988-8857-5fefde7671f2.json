@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "310-11-102-41-001000"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Two pin socket"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Mill-Max"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "3d20e80e-7c17-4a6d-a205-d0ac3d30535d",
+    "pad_map": {
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "socket"
+    ],
+    "type": "part",
+    "uuid": "42fe73aa-ec90-4988-8857-5fefde7671f2",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "AD5761R",
+    "pins": {
+        "0438c494-8992-4ae9-af5c-62e7b125d997": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ALERT",
+            "swap_group": 0
+        },
+        "0582e748-32fb-4681-9163-d897f4322d40": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VREFIN/VREFOUT",
+            "swap_group": 0
+        },
+        "07b358ef-a1cb-4cdc-9eae-11656f800566": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "45c7927e-636d-4848-879c-76cc77b7ef6d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCLK",
+            "swap_group": 0
+        },
+        "a3d9ba45-0311-4eb8-bd5b-9f1b9e305673": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLEAR",
+            "swap_group": 0
+        },
+        "a4c1f5fd-ca00-42f0-802f-d99f155490cb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "a5023d7b-cfc7-4daa-948a-7e7197a647b9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "aa5727fc-8c84-426f-96f3-146ac1cd2bf6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET",
+            "swap_group": 0
+        },
+        "af1256db-b7e3-409e-9035-438c10a4976d": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "DNC",
+            "swap_group": 0
+        },
+        "c1afb0b4-672a-45cb-b416-a475b50441a7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DGND",
+            "swap_group": 0
+        },
+        "c50ad97b-c94f-47b7-b970-07772edf2713": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LDAC",
+            "swap_group": 0
+        },
+        "c7e06424-a78b-43dd-b59a-cc02c591c58b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "d7be1ec1-28df-4c76-ac9f-d373d7408e8d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SDI",
+            "swap_group": 0
+        },
+        "dc517895-41d1-4be8-846b-4867b145ff74": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SYNC",
+            "swap_group": 0
+        },
+        "e67295f8-a565-4952-af97-0b38cff46857": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVCC",
+            "swap_group": 0
+        },
+        "f94cdf70-6fbe-48da-a65d-547bbcc4c567": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SDO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "95762525-a415-4c7b-9c93-aff53aa580fa"
+}

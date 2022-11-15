@@ -1,0 +1,37 @@
+{
+    "manufacturer": "",
+    "name": "Dual Supply Power ",
+    "pins": {
+        "a8ba387d-1c68-4215-843f-9d669e48646d": {
+            "alt_names": {
+                "9251d5a5-6c95-552f-b241-a22c61860edf": {
+                    "direction": "power_input",
+                    "name": "Vdd"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "aacf2d55-cf04-4c20-89c5-61704ef771f7": {
+            "alt_names": {
+                "9251d5a5-6c95-552f-b241-a22c61860edf": {
+                    "direction": "power_input",
+                    "name": "Vee"
+                },
+                "bb4bb488-8cd0-5079-9672-764ea34a5f1a": {
+                    "direction": "power_input",
+                    "name": "Vss"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "836eb1b7-066f-415a-a72b-1955f69ab094",
+    "version": 1
+}

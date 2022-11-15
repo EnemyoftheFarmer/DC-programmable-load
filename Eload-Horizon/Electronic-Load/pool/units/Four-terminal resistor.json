@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Four-terminal resistor",
+    "pins": {
+        "1fe19fa0-21bd-489c-b182-21cba3277232": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "24399408-0ae1-47f6-bbb3-da31ede28bb3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "a014dbba-aeda-477f-952f-3356a1ee818e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SNS+",
+            "swap_group": 0
+        },
+        "cea4da8c-687c-4d96-82b6-5033079d8ee3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SNS-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "36db29c8-6b83-4e66-8861-2b00eab4a648"
+}

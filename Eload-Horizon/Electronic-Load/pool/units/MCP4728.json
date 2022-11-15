@@ -1,0 +1,68 @@
+{
+    "manufacturer": "",
+    "name": "MCP4728",
+    "pins": {
+        "07eae832-38a1-4180-8539-3f41565e8381": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "VOUTB",
+            "swap_group": 0
+        },
+        "2c67486f-a7ff-4886-b817-1ee2b3be4604": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~LDAC",
+            "swap_group": 0
+        },
+        "40b589dc-33f3-41c3-aa1b-cd280878b15d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "5689a4b0-c30c-46bb-94bc-80b7b321a5d8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "83f1119a-34b8-47a1-9b6c-462e9ac94e06": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "VOUTD",
+            "swap_group": 0
+        },
+        "86e7fcfe-e0e0-4db9-8d43-6d46a08c06f5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "9c674b86-2710-4f6a-8535-f0dc6d7e3f39": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "VOUTC",
+            "swap_group": 0
+        },
+        "cb668dd8-b890-42de-8789-a5c1bfd531ed": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "e5ea09c5-46ac-4dd5-9389-aae7a41557c2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "VOUTA",
+            "swap_group": 0
+        },
+        "eb7ba2bb-ae33-4a27-bd3c-a59b36eeda40": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RDY/~BSY",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c8484cb0-673c-416f-807e-98c3f556fcc0"
+}

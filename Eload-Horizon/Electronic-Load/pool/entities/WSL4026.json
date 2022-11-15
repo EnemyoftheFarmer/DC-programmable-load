@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "c25223b1-5a10-4186-bd71-5bf871824eb5": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "36db29c8-6b83-4e66-8861-2b00eab4a648"
+        }
+    },
+    "manufacturer": "Vishay",
+    "name": "WSL4026",
+    "prefix": "R",
+    "tags": [],
+    "type": "entity",
+    "uuid": "5be04675-251d-4cbe-a34e-e9669c1bf78b"
+}

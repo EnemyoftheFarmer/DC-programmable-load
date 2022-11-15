@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "ADS1015IDGS"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/ds/symlink/ads1015.pdf"
+    ],
+    "description": [
+        false,
+        "Ultra-Small, Low-Power, I2C-Compatible, 3.3-kSPS, 12-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10"
+    ],
+    "entity": "2ce7e21f-cdb9-4b7e-950e-4bb5015e3721",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "2d422886-1e68-41b0-aadf-d868d84eff2d",
+    "pad_map": {
+        "1ef4e5e9-70e1-4e60-a168-c9ef4faf55f5": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "9ef42361-38b5-45b7-8347-b6a3859c2b45"
+        },
+        "2df5355a-e3a7-433e-b8e6-7b39c6f8571e": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "b5f6701d-fae1-4126-b99e-04eb88a1fcc1"
+        },
+        "3fd06edb-f6af-4f44-a4ba-55572821ee5c": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "86144b3c-099c-4506-a3cc-e81ce56d05da"
+        },
+        "45a70156-2654-43fc-b924-461bb7be5176": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "8c495e1b-61bd-4ddf-a41e-c58cb650d963"
+        },
+        "5fa6ecca-6133-49a2-acb0-8a4aa3d38fb5": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "8c3a1571-0d24-4362-bc4e-1a79e6911241"
+        },
+        "6b4229a0-2a26-4ea6-b363-b39e30e1ace0": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "3514c908-ebde-4211-b2af-da620f46c6a1"
+        },
+        "825df545-408c-45a5-811c-e9e2b0c2de57": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "81890197-6851-4e84-9b10-5385aee46211"
+        },
+        "c45f460d-c9df-44ef-8d7b-32508a7622eb": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "9ac19358-ea2c-4cef-8f9a-123283edc414"
+        },
+        "f4924585-169d-43da-aa42-a3ac4a04b5c3": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "01db1568-e81c-4f95-aa93-379a4a2c4152"
+        },
+        "f5160cb2-881e-4d14-a4a3-bc9f2713759d": {
+            "gate": "0417f090-40e1-474a-b3aa-e03cacdb5b6f",
+            "pin": "6f6677f6-0ab9-440d-b61b-4ffe9da11ae3"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "078ac816-9e95-48da-9b9d-54a47a194ada",
+    "value": [
+        false,
+        ""
+    ]
+}
