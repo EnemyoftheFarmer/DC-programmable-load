@@ -10,12 +10,13 @@
     "board_filename": "board.json",
     "name": "",
     "pictures_filename": "pictures",
+    "planes_filename": "planes.json",
     "pool_cache_directory": "cache",
     "pool_directory": "pool",
     "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
     "title": "",
     "type": "project",
     "uuid": "e9f5f1a2-099c-4ec2-9fc0-9d02fc7fb3f6",
-    "version": 2,
+    "version": 3,
     "vias_directory": ""
 }
