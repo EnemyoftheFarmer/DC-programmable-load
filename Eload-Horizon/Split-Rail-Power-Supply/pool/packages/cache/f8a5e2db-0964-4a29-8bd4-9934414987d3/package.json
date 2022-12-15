@@ -1,0 +1,198 @@
+{
+    "arcs": {},
+    "default_model": "1a6415b4-9c7f-4032-86c1-35f32e836fb8",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "229c2605-2273-4efa-ad57-ec42a9e51c95": {
+            "position": [
+                2000000,
+                2000000
+            ]
+        },
+        "4f53af4b-3399-46e2-9022-770d815db4c9": {
+            "position": [
+                -2000000,
+                2000000
+            ]
+        },
+        "798797db-2cf1-4b8d-96f7-dba684286790": {
+            "position": [
+                2154000,
+                2154000
+            ]
+        },
+        "8032a67a-694b-492b-b8df-9d81c917edbe": {
+            "position": [
+                -2000000,
+                -2000000
+            ]
+        },
+        "cb78311b-58e3-4a05-82fe-049501279b05": {
+            "position": [
+                2000000,
+                -2000000
+            ]
+        },
+        "e4badab0-1e8a-4cd9-a4ba-d4b9290da2ca": {
+            "position": [
+                2154000,
+                -2154000
+            ]
+        },
+        "f11f07cf-5a90-4e55-910d-de6a65fcafec": {
+            "position": [
+                -2154000,
+                2154000
+            ]
+        },
+        "f8a2df0b-014b-4c28-a95e-18479cf418e4": {
+            "position": [
+                -2154000,
+                -2154000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "05542902-349a-474b-8fac-6096ea45f934": {
+            "from": "8032a67a-694b-492b-b8df-9d81c917edbe",
+            "layer": 50,
+            "to": "4f53af4b-3399-46e2-9022-770d815db4c9",
+            "width": 0
+        },
+        "315b6b58-780e-410e-bc14-bee9719a2e63": {
+            "from": "4f53af4b-3399-46e2-9022-770d815db4c9",
+            "layer": 50,
+            "to": "229c2605-2273-4efa-ad57-ec42a9e51c95",
+            "width": 0
+        },
+        "5b119dd9-6e70-4334-84f5-d35f09be5102": {
+            "from": "f11f07cf-5a90-4e55-910d-de6a65fcafec",
+            "layer": 20,
+            "to": "798797db-2cf1-4b8d-96f7-dba684286790",
+            "width": 120000
+        },
+        "76fbf6a5-d9ff-4cbb-addd-38e200373c1f": {
+            "from": "cb78311b-58e3-4a05-82fe-049501279b05",
+            "layer": 50,
+            "to": "8032a67a-694b-492b-b8df-9d81c917edbe",
+            "width": 0
+        },
+        "cda1b074-e80e-4a06-b0af-aa024294a005": {
+            "from": "e4badab0-1e8a-4cd9-a4ba-d4b9290da2ca",
+            "layer": 20,
+            "to": "f8a2df0b-014b-4c28-a95e-18479cf418e4",
+            "width": 120000
+        },
+        "ffdaf802-4b3c-494f-8e6b-17616788adc3": {
+            "from": "229c2605-2273-4efa-ad57-ec42a9e51c95",
+            "layer": 50,
+            "to": "cb78311b-58e3-4a05-82fe-049501279b05",
+            "width": 0
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "1a6415b4-9c7f-4032-86c1-35f32e836fb8": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/custom/Coilcraft/Coilcraft-XGL4030.step",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "L_Coilcraft_XxL4030",
+    "pads": {
+        "3775809f-45b5-46be-9d2f-bc3d016118b7": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 3400000,
+                "pad_width": 980000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1185000,
+                    0
+                ]
+            }
+        },
+        "415fc1cc-dabd-4459-8f77-05c9df116e06": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 3400000,
+                "pad_width": 980000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1185000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "coilcraft",
+        "l",
+        "xxl4030"
+    ],
+    "texts": {
+        "e0b9e4b6-5e67-4d26-a0fc-8d94b6d903bd": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2000000,
+                    3000000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "f8a5e2db-0964-4a29-8bd4-9934414987d3"
+}

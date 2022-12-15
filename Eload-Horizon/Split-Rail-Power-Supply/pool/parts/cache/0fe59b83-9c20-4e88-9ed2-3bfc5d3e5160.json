@@ -1,0 +1,117 @@
+{
+    "MPN": [
+        false,
+        "ADP5070AREZ"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Split rail generator"
+    ],
+    "entity": "7d4e0994-d550-4a6c-a18d-2e079e43f11c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "014d902a-3ba9-4e40-a78d-6606d8e4d2bc",
+    "package": "d91121ff-d84f-41ad-9045-aaa0e0fb14f9",
+    "pad_map": {
+        "257f57e9-51af-45f8-ac21-e015a6cd28a7": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "47a289d6-c256-4c1d-88fa-66c94249fbfd"
+        },
+        "25cff315-0de9-4c85-b551-4cfb237f9f6e": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "4ff7e07b-424c-49b7-b73d-b65499af8c17"
+        },
+        "36e1e52a-7ea8-4d08-b522-20abe21ab659": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "670978cc-ecfb-4d94-9142-b875905dab70"
+        },
+        "3a03d5a4-b711-4723-95e7-4a261c1021a3": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "11a1b771-0702-4beb-be5f-c1d5df305a87"
+        },
+        "475ada84-11ac-448b-9bef-68c88c5c2841": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "2de30efb-48ad-4925-a629-9684b2c1968f"
+        },
+        "4ba924d5-d3cc-4c55-a02c-8ba20edf48f2": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "629e79ed-15a8-4de4-8e18-734e5fffc955"
+        },
+        "5454927c-3513-4676-af2c-7eecdb0a28ce": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "601246ec-3219-45bb-aecc-9486d1e31c53"
+        },
+        "6de0e7e0-3270-413b-8b6a-fb18a5e51f6c": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "b5dfb71c-c12c-426e-a819-dcdf9d755333"
+        },
+        "7612eba0-0658-401a-a7e2-89cc6091210b": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "7d541a2f-33e2-41c7-bdbe-949c631da62a"
+        },
+        "82270b68-4da6-4f38-a965-a8dbd767fa2b": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "23947d21-e21e-4b5e-820a-4cb8e47ffb23"
+        },
+        "82d12364-0e4a-4d37-9ca8-d673487cf3d2": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "cacfe419-2343-40ae-8a00-85d7c53df577"
+        },
+        "8c9de0a3-755d-41fd-8f16-4b44e5681e2e": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "170ebc35-fcce-48ee-8e8a-64a4fa5f9357"
+        },
+        "9c515c3f-1239-4851-8002-faf15452614d": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "03014913-de32-4bda-ab2b-23c115436b70"
+        },
+        "9eafdfeb-bae8-4b5e-860d-4b59727e4645": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "b5dfb71c-c12c-426e-a819-dcdf9d755333"
+        },
+        "a5992970-754f-4a30-a717-af9e61f2f80e": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "11305827-56db-4161-adfc-da35d9463080"
+        },
+        "a84e999c-b59e-40c2-8ea3-87e410a62233": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "1acd1f4f-8503-4c00-b710-1c751dd88b8b"
+        },
+        "b4f2c333-f071-4bec-b00f-b6b0f1356bcf": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "6b3376f3-f2aa-4c89-b794-91e84fb6347e"
+        },
+        "c1a2576d-d7eb-470e-930f-b0b386f13e22": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "31be2191-6249-4069-b8c2-dbc21694432f"
+        },
+        "c75b3296-3bf0-4e6d-901c-9e4594668c94": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "03e171ab-4eb7-437c-87b3-f3b21afcfb0b"
+        },
+        "c911e7e1-a953-4d6e-85ba-169c2eb0e2e1": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "d2e2f6af-591f-44f4-a175-c00b53c46983"
+        },
+        "dd0201a3-e692-4777-8158-0998ce63c931": {
+            "gate": "8b8008e8-0aa7-4fb8-a248-117756446d2f",
+            "pin": "a33285d3-7ab2-4514-a106-8bdadcd4968f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0fe59b83-9c20-4e88-9ed2-3bfc5d3e5160",
+    "value": [
+        false,
+        ""
+    ]
+}

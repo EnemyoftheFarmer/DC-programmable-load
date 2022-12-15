@@ -1,0 +1,294 @@
+{
+    "arcs": {},
+    "default_model": "07573b15-ad2a-4ffc-a19e-e24f086cac8f",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "0433f582-5e31-4ed7-a98b-da69fc6906a9": {
+            "position": [
+                1400000,
+                900000
+            ]
+        },
+        "1da20372-bee7-4d19-9e90-fdd7c75ede0d": {
+            "position": [
+                -2200000,
+                1000000
+            ]
+        },
+        "219c3cb4-b2b3-4882-ad6a-0c456089e764": {
+            "position": [
+                300000,
+                500000
+            ]
+        },
+        "2424efad-4df8-4600-9612-dad7d1a540f4": {
+            "position": [
+                -500000,
+                0
+            ]
+        },
+        "490cab74-2972-4dfc-9739-0a0841faad79": {
+            "position": [
+                700000,
+                0
+            ]
+        },
+        "5153c023-ecf7-4375-a59f-5253e954ce86": {
+            "position": [
+                -2200000,
+                -1000000
+            ]
+        },
+        "747ab9f5-9b63-4acd-b82f-76a2347f832c": {
+            "position": [
+                1000000,
+                1000000
+            ]
+        },
+        "7faa8d6a-74b2-4ac9-a199-8667e5e80202": {
+            "position": [
+                1000000,
+                -1000000
+            ]
+        },
+        "80b56bd9-1205-4b69-b17e-318422e7eadb": {
+            "position": [
+                -500000,
+                500000
+            ]
+        },
+        "83261ee3-2f88-47db-a204-b483f6ed0150": {
+            "position": [
+                300000,
+                -500000
+            ]
+        },
+        "9095a057-e55b-48f4-bf3d-744cf39e4315": {
+            "position": [
+                300000,
+                0
+            ]
+        },
+        "92a0033c-a43b-4b7c-88dc-fd732762db50": {
+            "position": [
+                1400000,
+                -900000
+            ]
+        },
+        "9345faf6-8869-4968-a601-76b835c50196": {
+            "position": [
+                -800000,
+                0
+            ]
+        },
+        "9887b1c1-a22c-4598-a6c2-4517592a94f5": {
+            "position": [
+                -500000,
+                -500000
+            ]
+        },
+        "d208d0f5-1ef5-45f5-85e5-6348ae4240ef": {
+            "position": [
+                -1400000,
+                900000
+            ]
+        },
+        "f9f503c7-8813-480b-9231-e3064a66cd7e": {
+            "position": [
+                -1400000,
+                -900000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "090a09ae-ae50-4b19-89da-54f601411976": {
+            "from": "92a0033c-a43b-4b7c-88dc-fd732762db50",
+            "layer": 50,
+            "to": "f9f503c7-8813-480b-9231-e3064a66cd7e",
+            "width": 0
+        },
+        "1588568d-11f4-4b3e-bb16-4f0fe1a2a1a3": {
+            "from": "219c3cb4-b2b3-4882-ad6a-0c456089e764",
+            "layer": 50,
+            "to": "2424efad-4df8-4600-9612-dad7d1a540f4",
+            "width": 0
+        },
+        "2e829200-ed3e-4ed2-9f79-684c0e1df3fa": {
+            "from": "2424efad-4df8-4600-9612-dad7d1a540f4",
+            "layer": 50,
+            "to": "80b56bd9-1205-4b69-b17e-318422e7eadb",
+            "width": 0
+        },
+        "3b3180bc-dd3a-4473-a094-08aa5921d1e4": {
+            "from": "2424efad-4df8-4600-9612-dad7d1a540f4",
+            "layer": 50,
+            "to": "9887b1c1-a22c-4598-a6c2-4517592a94f5",
+            "width": 0
+        },
+        "45a5f656-0060-40f4-8b12-1fd7bf91039d": {
+            "from": "2424efad-4df8-4600-9612-dad7d1a540f4",
+            "layer": 50,
+            "to": "83261ee3-2f88-47db-a204-b483f6ed0150",
+            "width": 0
+        },
+        "4ef61f74-e6bd-48d2-bc52-ed0d25d40a92": {
+            "from": "5153c023-ecf7-4375-a59f-5253e954ce86",
+            "layer": 20,
+            "to": "1da20372-bee7-4d19-9e90-fdd7c75ede0d",
+            "width": 120000
+        },
+        "5fc5766d-6d3d-42c1-b839-b1cc5cd72e7d": {
+            "from": "9095a057-e55b-48f4-bf3d-744cf39e4315",
+            "layer": 50,
+            "to": "490cab74-2972-4dfc-9739-0a0841faad79",
+            "width": 0
+        },
+        "621eb055-50fe-49b8-97ce-f929af3d53f8": {
+            "from": "747ab9f5-9b63-4acd-b82f-76a2347f832c",
+            "layer": 20,
+            "to": "1da20372-bee7-4d19-9e90-fdd7c75ede0d",
+            "width": 120000
+        },
+        "74cb1239-237c-4c39-b23f-a89e5ab77fbf": {
+            "from": "f9f503c7-8813-480b-9231-e3064a66cd7e",
+            "layer": 50,
+            "to": "d208d0f5-1ef5-45f5-85e5-6348ae4240ef",
+            "width": 0
+        },
+        "af87c360-cc55-4581-a446-23aeb766d007": {
+            "from": "83261ee3-2f88-47db-a204-b483f6ed0150",
+            "layer": 50,
+            "to": "219c3cb4-b2b3-4882-ad6a-0c456089e764",
+            "width": 0
+        },
+        "d257be8d-b028-4bae-9034-fe447ac0f3d5": {
+            "from": "9345faf6-8869-4968-a601-76b835c50196",
+            "layer": 50,
+            "to": "2424efad-4df8-4600-9612-dad7d1a540f4",
+            "width": 0
+        },
+        "e935b118-0775-412d-9ea2-59361468dfdd": {
+            "from": "d208d0f5-1ef5-45f5-85e5-6348ae4240ef",
+            "layer": 50,
+            "to": "0433f582-5e31-4ed7-a98b-da69fc6906a9",
+            "width": 0
+        },
+        "f6da9b28-14bb-472b-af97-48078c3baa6b": {
+            "from": "0433f582-5e31-4ed7-a98b-da69fc6906a9",
+            "layer": 50,
+            "to": "92a0033c-a43b-4b7c-88dc-fd732762db50",
+            "width": 0
+        },
+        "f6e40c2f-0752-474c-bbd6-176e40486073": {
+            "from": "5153c023-ecf7-4375-a59f-5253e954ce86",
+            "layer": 20,
+            "to": "7faa8d6a-74b2-4ac9-a199-8667e5e80202",
+            "width": 120000
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "07573b15-ad2a-4ffc-a19e-e24f086cac8f": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/kicad libaries/kicad-packages3D-master/Diode_SMD.3dshapes/D_PowerDI-123.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "D_PowerDI-123",
+    "pads": {
+        "7e96db92-bf02-4eaa-b9c6-11eeb0d21bf1": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1500000,
+                "pad_width": 2400000
+            },
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    -850000,
+                    0
+                ]
+            }
+        },
+        "9a1d1ae0-5a00-4531-aff8-1ab6919885f8": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1500000,
+                "pad_width": 1050000
+            },
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    1525000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "diode",
+        "powerdi",
+        "vishay"
+    ],
+    "texts": {
+        "d373b959-960f-4939-a40a-32afabcfa2ea": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2000000,
+                    2000000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "f31c9dfe-3eda-4bc8-838a-e25c88db3ff4"
+}

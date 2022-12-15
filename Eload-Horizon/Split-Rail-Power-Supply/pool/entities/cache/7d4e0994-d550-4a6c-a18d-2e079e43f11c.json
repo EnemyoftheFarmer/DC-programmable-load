@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "8b8008e8-0aa7-4fb8-a248-117756446d2f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a88022e5-11b0-43da-afbb-07157a5ad96d"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "ADP5070",
+    "prefix": "U",
+    "tags": [
+        "regulator",
+        "switched"
+    ],
+    "type": "entity",
+    "uuid": "7d4e0994-d550-4a6c-a18d-2e079e43f11c"
+}

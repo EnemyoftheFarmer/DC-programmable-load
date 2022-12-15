@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "8e9b1182-107e-4813-a254-d5c5b52417cc": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "15b7a79f-fa47-46bd-8022-2a2e12da4879"
+        }
+    },
+    "manufacturer": "Coilcraft",
+    "name": "XGL4030-682MEC ",
+    "prefix": "L",
+    "tags": [],
+    "type": "entity",
+    "uuid": "b6430ad5-6d3f-4a2e-b4f0-dd35aec663f0"
+}

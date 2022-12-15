@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "XGL4030-682MEC "
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "inductor"
+    ],
+    "entity": "b6430ad5-6d3f-4a2e-b4f0-dd35aec663f0",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Coilcraft"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f8a5e2db-0964-4a29-8bd4-9934414987d3",
+    "pad_map": {
+        "3775809f-45b5-46be-9d2f-bc3d016118b7": {
+            "gate": "8e9b1182-107e-4813-a254-d5c5b52417cc",
+            "pin": "17f526fb-ea1b-4925-8cc8-730dd10a6d55"
+        },
+        "415fc1cc-dabd-4459-8f77-05c9df116e06": {
+            "gate": "8e9b1182-107e-4813-a254-d5c5b52417cc",
+            "pin": "e95271c2-299d-4793-b5eb-50bfce888cda"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "47f65eb6-8c95-45b9-b670-800a95c3e7d2",
+    "value": [
+        false,
+        "6.8uF"
+    ]
+}

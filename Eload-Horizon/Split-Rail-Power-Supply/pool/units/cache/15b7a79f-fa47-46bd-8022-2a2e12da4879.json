@@ -1,0 +1,20 @@
+{
+    "manufacturer": "Coilcraft",
+    "name": "XGL4030-682MEC ",
+    "pins": {
+        "17f526fb-ea1b-4925-8cc8-730dd10a6d55": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "e95271c2-299d-4793-b5eb-50bfce888cda": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "15b7a79f-fa47-46bd-8022-2a2e12da4879"
+}

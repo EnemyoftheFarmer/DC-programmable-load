@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "b83763b7-79f0-4571-be1a-bb4552d217a4",
+    "default_model": "79cd214b-0d0e-4d32-9873-5a34f481a6c9",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -217,8 +217,8 @@
     },
     "manufacturer": "",
     "models": {
-        "b83763b7-79f0-4571-be1a-bb4552d217a4": {
-            "filename": "3d_models/Wuerth/REDCUBE/74651194.stp",
+        "79cd214b-0d0e-4d32-9873-5a34f481a6c9": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/custom/Wuerth/REDCUBE/74651194.stp",
             "pitch": 0,
             "roll": 0,
             "x": 0,

@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "XGL4030-682MEC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "inductor smd molded"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Coilcraft"
+    ],
+    "model": "1a6415b4-9c7f-4032-86c1-35f32e836fb8",
+    "package": "f8a5e2db-0964-4a29-8bd4-9934414987d3",
+    "pad_map": {
+        "3775809f-45b5-46be-9d2f-bc3d016118b7": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "415fc1cc-dabd-4459-8f77-05c9df116e06": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "bc9ac8a3-d6b0-408d-811f-ee524acbae0e",
+    "value": [
+        false,
+        "6.8uF"
+    ]
+}

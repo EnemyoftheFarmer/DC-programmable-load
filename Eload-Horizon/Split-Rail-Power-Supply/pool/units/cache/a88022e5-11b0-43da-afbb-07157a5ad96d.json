@@ -1,0 +1,128 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "ADP5070",
+    "pins": {
+        "03014913-de32-4bda-ab2b-23c115436b70": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "COMP1",
+            "swap_group": 0
+        },
+        "03e171ab-4eb7-437c-87b3-f3b21afcfb0b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SW1",
+            "swap_group": 0
+        },
+        "11305827-56db-4161-adfc-da35d9463080": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "COMP2",
+            "swap_group": 0
+        },
+        "11a1b771-0702-4beb-be5f-c1d5df305a87": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SLEW",
+            "swap_group": 0
+        },
+        "170ebc35-fcce-48ee-8e8a-64a4fa5f9357": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB1",
+            "swap_group": 0
+        },
+        "1acd1f4f-8503-4c00-b710-1c751dd88b8b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEQ",
+            "swap_group": 0
+        },
+        "23947d21-e21e-4b5e-820a-4cb8e47ffb23": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SS",
+            "swap_group": 0
+        },
+        "2de30efb-48ad-4925-a629-9684b2c1968f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN1",
+            "swap_group": 0
+        },
+        "31be2191-6249-4069-b8c2-dbc21694432f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SYNC/FREQ",
+            "swap_group": 0
+        },
+        "47a289d6-c256-4c1d-88fa-66c94249fbfd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INBK",
+            "swap_group": 0
+        },
+        "4ff7e07b-424c-49b7-b73d-b65499af8c17": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "601246ec-3219-45bb-aecc-9486d1e31c53": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PVINSYS",
+            "swap_group": 0
+        },
+        "629e79ed-15a8-4de4-8e18-734e5fffc955": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB2",
+            "swap_group": 0
+        },
+        "670978cc-ecfb-4d94-9142-b875905dab70": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PVIN1",
+            "swap_group": 0
+        },
+        "6b3376f3-f2aa-4c89-b794-91e84fb6347e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN2",
+            "swap_group": 0
+        },
+        "7d541a2f-33e2-41c7-bdbe-949c631da62a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VREG",
+            "swap_group": 0
+        },
+        "a33285d3-7ab2-4514-a106-8bdadcd4968f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "b5dfb71c-c12c-426e-a819-dcdf9d755333": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "cacfe419-2343-40ae-8a00-85d7c53df577": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SW2",
+            "swap_group": 0
+        },
+        "d2e2f6af-591f-44f4-a175-c00b53c46983": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PVIN2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a88022e5-11b0-43da-afbb-07157a5ad96d"
+}

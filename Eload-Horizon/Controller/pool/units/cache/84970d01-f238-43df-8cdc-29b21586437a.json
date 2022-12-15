@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "MC78L05_TO92",
+    "pins": {
+        "38fe020e-3609-4250-86f3-46e2b56a254d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "8de15d6f-4b3e-47ab-80f9-4fea10897736": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VI",
+            "swap_group": 0
+        },
+        "f6cd33e4-fe32-41f5-b3ba-c6b1a481b00b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "84970d01-f238-43df-8cdc-29b21586437a"
+}

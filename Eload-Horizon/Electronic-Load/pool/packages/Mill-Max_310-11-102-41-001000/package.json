@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "default_model": "e11d8e46-ee90-48a1-b950-7a8da6b4a22d",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -109,23 +109,14 @@
     },
     "manufacturer": "",
     "models": {
-        "5cfbb6ec-0782-4cb7-b228-0b72a45f7bf8": {
-            "filename": "3d_models/Mill-Max/mill-max-310-11-102-41-001000.STEP",
-            "pitch": 0,
-            "roll": 0,
-            "x": 0,
-            "y": 0,
-            "yaw": 0,
-            "z": 0
-        },
-        "84ec8229-d872-42f8-bfcc-96938ff02bd1": {
-            "filename": "3d_models/Mill-Max/mill-max-310-11-102-41-001000.STEP",
+        "e11d8e46-ee90-48a1-b950-7a8da6b4a22d": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/custom/Mill-Max/mill-max-310-11-102-41-001000.STEP",
             "pitch": 16384,
-            "roll": 0,
+            "roll": 49152,
             "x": -1300000,
-            "y": 2170000,
-            "yaw": 16384,
-            "z": 4300000
+            "y": 2200000,
+            "yaw": 0,
+            "z": 4200000
         }
     },
     "name": "Mill-Max_310-11-102-41-001000",
