@@ -1,4 +1,5 @@
-
+# Attention
+You will need Horizon EDA to view the PCB files.
 ## Modular Electronic DC Load
 #### Motivation
 This project will implement a modular 450W DC programmable load. The motivation came from another 
@@ -33,7 +34,7 @@ My requirement to set mA to A in one range meant that I needed better than the t
 #### Microcontroller
 For the brains of the system I went with a raspberry PICO. The first most important reason to me is I did not want to use Arduino for once and I thought the documentation was very good. Addtionally, its cheap, fast, and wasn't hit by the silicon shortage. I didn't want to integrate an STM32 or the like knowing that no one else could reimplement this system because of supply disruption. 
 #### ADC
-I am using an ADS1115. Its classic, 16 bit and I had it laying around. My only question is if I should replace it with an ADS1118 so I can eliminate one bus and move completely to SPI.
+I am using an ADS1115. Its classic, 16 bit and I had it laying around. My only question is if I should replace it with an ADS1118 so I can eliminate one bus and move completely to SPI. I use a modified version of [Elektor Labs](https://github.com/ElektorLabs/ads1115-driver) ADS1115 driver to interface with it.
 #### Cooling
 The cooling system consists primarly out of PC water cooling parts. The radiator is 240mm by 40mm. I just slapped two 120mm fans I had lying around on it. The resovoir and pump are also just cheap amazon PC water cooling components. In my test runs so far, I seem to be to able to keep the mosfet at around 65 degrees while under 450W of load with the fans at full tilt after the water hits saturation. That puts the junction temp. at ~133 degrees. While still under the TJ_MAX of 150 degrees, I am not sure how this impacts the lifespan of the device, especially considering its high price. Either the cooling capacity needs to be upgraded, the load run less hard, or tests/enquires made to see if its something to worry about  There are tentative plans to attach a thermister to the MOSFET and write some code to make sure that TJ_MAX is never exceeded. 
 
