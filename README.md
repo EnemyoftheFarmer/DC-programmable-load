@@ -20,7 +20,7 @@ The control loop is formed by a very cool ADA4523-1 zero drift opamp. Its 4uV of
 #### DAC
 My requirement to set mA to A in one range meant that I needed better than the typical 12 bit DAC. I also wanted it to be bipolar in case I needed to set negative voltage to calibrate out the OPAMP offset. In the first revision I did this by using a second DAC channel to generate an offset. But since I needed to replace that one anyways I chose the lazy method that also simplified the design. I ended up going with a AD5761R because it was the cheapest, 16bit, bipolar, TSSOP, and available to sample from Analog Devices DAC.
 #### Microcontroller
-For the brains of the system I went with a raspberry PICO. The first most important reason to me is I wanted to not use Arduino for once and I thought the documentation was very good. Addtionally, its cheap, fast, and wasn't hit by the silicon shortage. I didn't want to integrate an STM32 or the like knowing that no one else could reimplement this system because of supply disruption. 
+For the brains of the system I went with a raspberry PICO. The first most important reason to me is I did not want to use Arduino for once and I thought the documentation was very good. Addtionally, its cheap, fast, and wasn't hit by the silicon shortage. I didn't want to integrate an STM32 or the like knowing that no one else could reimplement this system because of supply disruption. 
 #### ADC
 I am using an ADS1115. Its classic, 16 bit and I had it laying around. My only question is if I should replace it with an ADS1118 so I can eliminate one bus and move completely to SPI.
 ## Cooling
