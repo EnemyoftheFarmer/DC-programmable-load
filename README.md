@@ -5,6 +5,7 @@ This project will implement a modular 450W DC programmable load. The motivation 
 project where I needed to measure the efficiency of a boost-buck converter. I needed a high power 
 DC load FAST. The architecture is a straightfoward current sink. An opamp drives a MOSFET's gate input until the feedback voltage generated over a current shunt is equal to its set voltage which is derived from a DAC. For the typical DC load functions expected, such as constant power or constant resistance, a microcontroller will calculate the required DAC output voltage.
 
+[ELOAD.pdf](https://github.com/EnemyoftheFarmer/ELOAD/files/11132888/ELOAD.pdf)
 
 
 ## Component Selection
