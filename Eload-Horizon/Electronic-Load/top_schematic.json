@@ -11,7 +11,7 @@
     "name": "",
     "pdf_export_settings": {
         "min_line_width": 200000,
-        "output_filename": "pretendtoknow.pdf"
+        "output_filename": "ELOAD.pdf"
     },
     "rules": {
         "connectivity": {
