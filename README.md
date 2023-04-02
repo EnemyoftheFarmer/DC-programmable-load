@@ -27,4 +27,7 @@ I am using an ADS1115. Its classic, 16 bit and I had it laying around. My only q
 The cooling system consists primarly out of PC water cooling parts. The radiator is 240mm by 40mm. I just slapped two 120mm fans I had lying around on it. The resovoir and pump are also just cheap amazon PC water cooling components. In my test runs so far, I seem to be to able to keep the mosfet at around 65 degrees while under 450W of load with the fans at full tilt after the water hits saturation. That puts the junction temp. at ~133 degrees. While still under the TJ_MAX of 150 degrees, I am not sure how this impacts the lifespan of the device, especially considering its high price. Either the cooling capacity needs to be upgraded, the load run less hard, or tests/enquires made to see if its something to worry about  There are tentative plans to attach a thermister to the MOSFET and write some code to make sure that TJ_MAX is never exceeded. 
  
 ## Prototype Photo
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![IMG_4643](https://user-images.githubusercontent.com/39673402/229368772-f2513950-0236-4be2-a8cd-0143ab87b48f.JPG)
+![IMG_4640](https://user-images.githubusercontent.com/39673402/229368774-4a613722-99d7-450c-9a4c-d036480de62f.JPG)
+![IMG_4641](https://user-images.githubusercontent.com/39673402/229368775-76147a4a-5d2f-4dfb-9dad-a8c76673b586.JPG)
+![IMG_4642](https://user-images.githubusercontent.com/39673402/229368777-5fdd2d37-f645-49ea-b14a-b0aa4dd9d9a0.JPG)
