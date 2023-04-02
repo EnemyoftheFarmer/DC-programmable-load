@@ -1,4 +1,5 @@
-
+# Attention
+You will need Horizon EDA to view the PCB files.
 ## Modular Electronic DC Load
 #### Motivation
 This project will implement a modular 450W DC programmable load. The motivation came from another 
