@@ -45,7 +45,7 @@ Something interesting is that thermal emf had to be considered in the design. Of
  
 These last two methods I read about from application note AN1258 from Microchip. Futhermore, in order to avoid Johnson noise, which is thermal noise that is proportional to bandwidth and resistor size, the critical resistors were chosen to be 10 ohms. That puts the resistor noise levels in the 10s of nV for a bandwidth of 1000Hz. This means that so far the theorectical dominant noise source is either the control op amp input noise or the DAC output noise.
 
-##Problems Encountered and Summary so Far
+## Problems Encountered and Summary so Far
 I am quite amazed at how well the load works. Regulating down to 10mA seems no issue which represents a DC level of 10uV. The mA regulation will be implemented soon, but the author was too lazy to modify the software so far. The current is stable down the mA range and noise occurs in the 100s of uA range which would indicate a noise level of 100s of nVs. The current guess is that the op amp input noise, which is 88nV p2p, is the bottleneck. A lower noise but higher drift LT6018 may be tested to see if improvements could be made, even if unnesscary since the requirement was already achieved, as a way to test this theory. The current was measured using the mA range on a Fluke 87V DMM.  
 
 At this stage, the next step is to finalize the analog board layout, complete the logic board layout, and populate the split rail PSU pcb. Additionally, a prototype front panel using an aluminum pcb will be made.
