@@ -4,13 +4,12 @@ You will need Horizon EDA to view the PCB files.
 #### Motivation
 This project will implement a modular 450W DC programmable load. A programmable load is a piece of equipment used to test power supplies, batteries. It can also be used to simulate load types or effectively act as a large linear regulator. The motivation came from another project where I needed to measure the efficiency of a boost-buck converter. I needed a high power DC load FAST. This lead to the stupid requirement that I be able to regulate mA and A in the same control loop using no ranging tricks. This had some dumb and interesting consequences in my selection of components.
 
-*An electronic load can be used to test many devices. The most common uses include testing the efficiency of power supplies as well measuring the capacity of batteries.*
 <figure>
   <img src="https://github.com/EnemyoftheFarmer/DC-programmable-load/assets/39673402/42d24922-651a-4d47-b30c-ba2449bc3f3b" alt="Bla">
   <figcaption>
     Figure 1: DC Load Use Diagram.
     <br>
-    *An electronic load can be used to test many devices. The most common uses include testing the efficiency of power supplies as well measuring the capacity of batteries. In this example we can see a power supply being tested for efficiency by measuring input and output power.*
+    An electronic load can be used to test many devices. The most common uses include testing the efficiency of power supplies as well measuring the capacity of batteries. In this example we can see a power supply      being tested for efficiency by measuring input and output power.
   </figcaption>
 </figure>
 
@@ -22,7 +21,7 @@ Three separate PCBs will conprise the system. The logic board will contain all t
 
 Finally, the meat and potatoes of the system is the analog control board. It contains the opamp, DAC, ADC, current shunt, and the MOSFET gate control output. It is intended to be modular such that the system can theorectically be expanded as much as one desires. I have yet to have an idea how to deal with this in software, and in reality there is a practical limit since the DAC is currently SPI controled which means that there needs to be a CS(chip select) pin for each analog control board. Additionally, the ADC has only four adresses it can use, which also limits the expandability. It might be easiest to make the system top out at two or four channels each, and then allow the systems to be slaved to each other over SCPI or something. 
 
-![System_Architecture drawio(4)](https://github.com/EnemyoftheFarmer/DC-programmable-load/assets/39673402/b60388ba-12e4-4007-87bd-b75f25ce3bec)
+![System_Architecture drawio](https://github.com/EnemyoftheFarmer/DC-programmable-load/assets/39673402/be15cf60-0c42-4452-b6eb-0b9c5e008a2e)
 
 #### Interface
 A rotary encoder is the sole user input for now. A couple of additional hardware buttons would be nice like OUTPUT on/off or mode switching. This area has the most to be decided and is also of lowest priority since it is easy to change without ordering new hardware.
