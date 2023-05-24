@@ -2,7 +2,7 @@
 You will need Horizon EDA to view the PCB files.
 ## Modular Electronic DC Load
 #### Motivation
-This project will implement a modular 450W DC programmable load. A programmable load is a piece of equipment used to test power supplies, batteries. It can also be used to simulate load types or effectively act as a large linear regulator. The motivation came from another project where I needed to measure the efficiency of a boost-buck converter. I needed a high power DC load FAST. This lead to the stupid requirement that I be able to regulate mA and A in the same control loop using no ranging tricks. This had some dumb and interesting consequences in my selection of components.
+This project will implement a modular 450W DC programmable load. A programmable load is a piece of equipment used to test power supplies, batteries and more. It can also be used to simulate load types or effectively act as a large linear regulator. The motivation came from another project where I needed to measure the efficiency of a boost-buck converter. I needed a high power DC load FAST. This lead to the stupid requirement that I be able to regulate mA and A in the same control loop using no ranging tricks. This had some dumb and interesting consequences in my selection of components.
 
 <figure>
   <img src="https://github.com/EnemyoftheFarmer/DC-programmable-load/assets/39673402/42d24922-651a-4d47-b30c-ba2449bc3f3b" alt="Bla">
