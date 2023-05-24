@@ -11,9 +11,9 @@ The architecture is a straightfoward current sink. An opamp drives a MOSFET's ga
 
 Three separate PCBs will conprise the system. The logic board will contain all the connectors to the other PCBs and will mount a PICO board for the first revision. Later the RP2040 will be integrated into the logic board. A second board will provide the two voltage rails needed for the DAC and OPAMPs. Power for this board needs to come from an isolated PSU in order to prevent ground loops forming between the system supply and the DUT(device under test). It is yet to determine if it is easier to buy an isolated 12V supply or to use an unisolated 12V and a 12V to 5V on board isolated converter that powers everything except the fans. In the latter case some sort of isolation between the MCU and the 12V fans would need to be added in order to control them. 
 
-![Split_Rail_PSU_PCB](https://user-images.githubusercontent.com/39673402/229370392-50b97abc-971b-4481-9c1c-05598c40625c.PNG)
+Finally, the meat and potatoes of the system is the analog control board. It contains the opamp, DAC, ADC, current shunt, and the MOSFET gate control output. It is intended to be modular such that the system can theorectically be expanded as much as one desires. I have yet to have an idea how to deal with this in software, and in reality there is a practical limit since the DAC is currently SPI controled which means that there needs to be a CS(chip select) pin for each analog control board. Additionally, the ADC has only four adresses it can use, which also limits the expandability. It might be easiest to make the system top out at two or four channels each, and then allow the systems to be slaved to each other over SCPI or something. 
 
-Finally, the meat and potatoes of the system is the analog control board. It contains the opamp, DAC, ADC, current shunt, and the MOSFET gate control output. It is intended to be modular such that the system can theorectically be expanded as much as one desires. I have yet to have an idea how to deal with this in software, and in reality there is a practical limit since the DAC is currently SPI controled which means that there needs to be a CS(chip select) pin for each analog control board. Additionally, the ADC has only four adresses it can use, which also limits the expandability. It might be easiest to make the system top out at two or four channels each, and then allow the systems to be slaved to each other over SCPI or something.  
+![System_Architecture drawio(3)](https://github.com/EnemyoftheFarmer/DC-programmable-load/assets/39673402/5afaf173-d964-4ef2-a650-547d8a70191e)
 
 #### Interface
 A rotary encoder is the sole user input for now. A couple of additional hardware buttons would be nice like OUTPUT on/off or mode switching. This area has the most to be decided and is also of lowest priority since it is easy to change without ordering new hardware.
@@ -50,8 +50,8 @@ I am quite amazed at how well the load works. Regulating down to 10mA seems no i
 
 At this stage, the next step is to finalize the analog board layout, complete the logic board layout, and populate the split rail PSU pcb. Additionally, a prototype front panel using an aluminum pcb will be made.
 ## Prototype Photo
-![IMG_4643](https://user-images.githubusercontent.com/39673402/229368772-f2513950-0236-4be2-a8cd-0143ab87b48f.JPG)
+
 ![IMG_4644](https://user-images.githubusercontent.com/39673402/229372127-8c2f10e3-2870-4109-bb5a-17fadee6649b.JPG)
-![IMG_4640](https://user-images.githubusercontent.com/39673402/229368774-4a613722-99d7-450c-9a4c-d036480de62f.JPG)
+
 ![IMG_4641](https://user-images.githubusercontent.com/39673402/229368775-76147a4a-5d2f-4dfb-9dad-a8c76673b586.JPG)
-![IMG_4642](https://user-images.githubusercontent.com/39673402/229368777-5fdd2d37-f645-49ea-b14a-b0aa4dd9d9a0.JPG)
+
