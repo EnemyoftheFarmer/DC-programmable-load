@@ -21,7 +21,6 @@ Finally, the meat and potatoes of the system is the analog control board. It con
 #### Interface
 A rotary encoder is the sole user input for now. A couple of additional hardware buttons would be nice like OUTPUT on/off or mode switching. This area has the most to be decided and is also of lowest priority since it is easy to change without ordering new hardware.
 
-[ELOAD.pdf](https://github.com/EnemyoftheFarmer/ELOAD/files/11132888/ELOAD.pdf)
 ## Component Selection
 #### MOSFET
 To keep things simple, it uses a single IXYS IXTN200N10L2 Linear MOSFET instead of paralleling many MOSFETs. Most modern MOSFETs are not very well suited to linear operation and many datasheets do not even characterize the DC SOA. One of the reasons is that modern MOSFETs are generally composed of many parallel MOSFETs internally and this can result in hot spotting. The IXYS Linear MOSFETs are specifically built and tested to avoid this. For a one off or hobbyist 
