@@ -7,6 +7,7 @@ project where I needed to measure the efficiency of a boost-buck converter. I ne
 DC load FAST. This lead to the stupid requirement that I be able to regulate mA and A in the same control loop using no ranging tricks. This had some dumb and interesting consequences in my selection of components.
 
 ![Untitled Diagram drawio(3)](https://github.com/EnemyoftheFarmer/DC-programmable-load/assets/39673402/42d24922-651a-4d47-b30c-ba2449bc3f3b)
+*image_caption*
 
 
 #### Architecture
