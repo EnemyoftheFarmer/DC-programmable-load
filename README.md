@@ -2,19 +2,12 @@
 You will need Horizon EDA to view the PCB files.
 ## Modular Electronic DC Load
 #### Motivation
-This project will implement a modular 450W DC programmable load. The motivation came from another 
-project where I needed to measure the efficiency of a boost-buck converter. I needed a high power 
-DC load FAST. This lead to the stupid requirement that I be able to regulate mA and A in the same control loop using no ranging tricks. This had some dumb and interesting consequences in my selection of components.
+This project will implement a modular 450W DC programmable load. A programmable load is a piece of equipment used to test power supplies, batteries. It can also be used to simulate load types or effectively act as a large linear regulator. The motivation came from another project where I needed to measure the efficiency of a boost-buck converter. I needed a high power DC load FAST. This lead to the stupid requirement that I be able to regulate mA and A in the same control loop using no ranging tricks. This had some dumb and interesting consequences in my selection of components.
 
 ![Untitled Diagram drawio(3)](https://github.com/EnemyoftheFarmer/DC-programmable-load/assets/39673402/42d24922-651a-4d47-b30c-ba2449bc3f3b)
-*image_caption*
+*An electronic load can be used to test many devices. The most common uses include testing the efficiency of power supplies as well measuring the capacity of batteries.*
 
-<figure class="image">
-  <img src="{{ include.url }}" alt="{{ include.description }}">
-  <figcaption>{{ include.description }}</figcaption>
-</figure>
 
-{% include image.html url="[Untitled Diagram drawio(3)]" description="My cat, Robert Downey Jr." %}
 
 #### Architecture
 The architecture is a straightfoward current sink. An opamp drives a MOSFET's gate input until the feedback voltage generated over a current shunt is equal to its set voltage which is derived from a DAC. For the typical DC load functions expected, such as constant power or constant resistance, a microcontroller will calculate the required DAC output voltage.
