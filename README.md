@@ -9,6 +9,12 @@ DC load FAST. This lead to the stupid requirement that I be able to regulate mA 
 ![Untitled Diagram drawio(3)](https://github.com/EnemyoftheFarmer/DC-programmable-load/assets/39673402/42d24922-651a-4d47-b30c-ba2449bc3f3b)
 *image_caption*
 
+<figure class="image">
+  <img src="{{ include.url }}" alt="{{ include.description }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
+
+{% include image.html url="[Untitled Diagram drawio(3)]" description="My cat, Robert Downey Jr." %}
 
 #### Architecture
 The architecture is a straightfoward current sink. An opamp drives a MOSFET's gate input until the feedback voltage generated over a current shunt is equal to its set voltage which is derived from a DAC. For the typical DC load functions expected, such as constant power or constant resistance, a microcontroller will calculate the required DAC output voltage.
