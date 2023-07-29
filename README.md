@@ -60,5 +60,6 @@ At this stage, the next step is to finalize the analog board layout, complete th
 
 ![IMG_4644](https://user-images.githubusercontent.com/39673402/229372127-8c2f10e3-2870-4109-bb5a-17fadee6649b.JPG)
 
-![IMG_4641](https://user-images.githubusercontent.com/39673402/229368775-76147a4a-5d2f-4dfb-9dad-a8c76673b586.JPG)
+![IMG_4965](https://github.com/KennyBurfeindt/DC-programmable-load/assets/39673402/35edaf08-f335-4506-89c5-567fd815bd6a)
+
 
